@@ -39,7 +39,11 @@ if __name__ == '__main__':
     else:
         result = "Wrong input"
 <<<<<<< HEAD
+<<<<<<< HEAD
     print(f"\nResult: {result * mult + add}")
 =======
     print(f"\nResult: {result * mult - sub}")
 >>>>>>> 0431dca (feat(*) add subtraction)
+=======
+    print(f"\nResult: {result *  mult  -  sub}")
+>>>>>>> 2ee2d48 (feat(*) add subtraction)
