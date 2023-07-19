@@ -8,4 +8,5 @@ def cal_circle_area(r):
 
 
 if __name__ == '__main__':
+    mult = int(input("Add multiplier: "))
     pass
