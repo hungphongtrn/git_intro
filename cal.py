@@ -16,11 +16,8 @@ if __name__ == '__main__':
         2. cal_rectangle_area \nPlease enter an integer:"))
     
     mult = int(input("Add multiplier: "))
-<<<<<<< HEAD
     add = int(input("Add addition: "))
-=======
     sub = int(input("Add subtractor: "))
->>>>>>> 0431dca (feat(*) add subtraction)
 
     if f == 0:
         a = int(input("Input value a: "))
@@ -38,12 +35,5 @@ if __name__ == '__main__':
 
     else:
         result = "Wrong input"
-<<<<<<< HEAD
-<<<<<<< HEAD
-    print(f"\nResult: {result * mult + add}")
-=======
-    print(f"\nResult: {result * mult - sub}")
->>>>>>> 0431dca (feat(*) add subtraction)
-=======
+        
     print(f"\nResult: {result *  mult  -  sub}")
->>>>>>> 2ee2d48 (feat(*) add subtraction)
